@@ -3,6 +3,14 @@
 
 	const cardData = [
 		{
+			sprintNumber: 'Personal',
+			sprintName: 'Quick Notes',
+			firstDay: '2025',
+			webLink: '../projects/quick-notes',
+			inputText: 'Naar project',
+			emoji: '🗒️'
+		},
+		{
 			sprintNumber: 'Heineken',
 			sprintName: 'Kalender',
 			firstDay: '2025',
