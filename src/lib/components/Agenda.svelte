@@ -12,11 +12,11 @@
 	$: dayNumber = currentDate ? currentDate.getDate() : '';
 
 	const trainingSchema = [
-		{ day: 'MAANDAG', workout: 'Chest Day', time: null },
-		{ day: 'DINSDAG', workout: 'Pull Day', time: null },
-		{ day: 'WOENSDAG', workout: 'Leg Day', time: null },
-		{ day: 'DONDERDAG', workout: 'Chest Day', time: null },
-		{ day: 'VRIJDAG', workout: 'Pull Day', time: null },
+		{ day: 'MAANDAG', workout: 'Chest Day', time: '20:00 - 21:00' },
+		{ day: 'DINSDAG', workout: 'Kickboksen', time: '20:00 - 21:00' },
+		{ day: 'WOENSDAG', workout: 'Back Day', time: '20:00 - 21:00' },
+		{ day: 'DONDERDAG', workout: 'Kickboksen', time: '20:00 - 21:00' },
+		{ day: 'VRIJDAG', workout: 'Leg Day', time: '20:00 - 21:00' },
 		{ day: 'ZATERDAG', workout: 'Werken', time: '16:00 - 21:00' },
 		{ day: 'ZONDAG', workout: 'Werken', time: '16:00 - 21:00' }
 	];

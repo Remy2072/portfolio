@@ -4,7 +4,7 @@
 		<h1>Quick Notes</h1>
 		<small>Personal</small>
 	</div>
-	<img src="/img/quick-notes.png" alt="Screenshot van quick notes pagina" />
+	<img src="/img/quicknotes.png" alt="Screenshot van quick notes pagina" />
 	<h3>Bekjik hier</h3>
 	<a href="https://github.com/Remy2072/quick-notes" target="_blank">Github</a>
 	<a href="https://remy2072.github.io/quick-notes" target="_blank">Live omgeving</a>
@@ -21,9 +21,9 @@
 		de naam al zegt snel notities kunt maken. Elke notitie bestaat uit een titel en een
 		beschrijving. Met behulp van JavaScript worden de notities opgeslagen in een array, waarbij de
 		nieuwste notitie altijd bovenaan verschijnt. Alles wordt bewaard in localStorage, zodat je
-		notities niet verloren gaan als je de pagina ververst. Een leuke extra feature is dat je de
-		achtergrondkleur van de pagina kunt aanpassen. Hierdoor wordt het echt jouw persoonlijke Quick
-		Notes omgeving.
+		notities niet verloren gaan als je de pagina ververst. Je kan ook een todo-list maken en een
+		extra leuke feature is dat je de achtergrondkleur van de pagina kunt aanpassen. Hierdoor wordt
+		het echt jouw persoonlijke Quick Notes omgeving.
 	</p>
 </div>
 
