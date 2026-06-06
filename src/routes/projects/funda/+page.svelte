@@ -7,7 +7,7 @@
 	<img src="/img/favorieten.png" alt="Screenshot van de favorieten pagina" />
 	<h3>Bekjik hier</h3>
 	<a href="https://github.com/Remy2072/funda-favourites" target="_blank">Github</a>
-	<a href="https://funda-favourites.onrender.com/" target="_blank">Live omgeving</a>
+	<a href="https://funda-favourites.vercel.app/" target="_blank">Live omgeving</a>
 	<h3>Tech-stack</h3>
 	<ul class="tech-stack">
 		<li class="tech-stack-list ejs">EJS</li>

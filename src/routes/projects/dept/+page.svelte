@@ -7,7 +7,7 @@
 	<img src="/img/weer.png" alt="Foto van de Planner" />
 	<h3>Bekjik hier</h3>
 	<a href="https://github.com/Remy2072/dept-weather-planner" target="_blank">Github</a>
-	<a href="https://dept-weather-planner.onrender.com/" target="_blank">Live omgeving</a>
+	<a href="https://dept-weather-planner-ten.vercel.app/" target="_blank">Live omgeving</a>
 	<h3>Tech-stack</h3>
 	<ul class="tech-stack">
 		<li class="tech-stack-list ejs">EJS</li>
